@@ -4,11 +4,13 @@
 ![Last Commit](https://img.shields.io/github/last-commit/gaga23/gaga23.github.io?logo=github)
 ![Website](https://img.shields.io/website?label=website&url=https%3A%2F%2Fgaga23.github.io)
 
-#### I'm a PhD and my goal is to be a Teacher, a Developer, a Husband, a Father!
+#### I'm a PhD. I aim to be a Teacher, a Developer, a Husband, a Father!
 
-- 🧙 Feel free to check out my website, [The Door Is Open][website]!
-- 🌈 I’m currently working on what to do with my skills.
-- 🌎 I live in Brazil and would like to help make our world better.
+<!--
+  - 🧙 Feel free to check out my website, [The Door Is Open][website]! 
+-->
+- 🌈 I’m currently figuring out on what to do with my skills.
+- 🌎 I live in Brazil and would love to help make our world better.
 - 🧭 2022 Goals: Find myself, Get a Job, Learn more, and Share.
 - 🧩 Hobbies: Reading, Walking, Coding; and also Drawing, Chess, Piano.
 
