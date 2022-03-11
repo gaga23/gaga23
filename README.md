@@ -27,7 +27,7 @@
 #### Connect with me:
 
 [![LinkedIn](/images/linkedin-light.svg#gh-light-mode-only)][linkedin]
-[![LinkedIn](/images/linkedin-dark.svg#gh-light-mode-only)][linkedin]
+[![LinkedIn](/images/linkedin-dark.svg#gh-dark-mode-only)][linkedin]
 <!--
 &nbsp;
 [![Youtube](/images/youtube-light.svg#gh-light-mode-only)][youtube]
