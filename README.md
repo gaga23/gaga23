@@ -4,33 +4,15 @@
 <picture>
   <img alt="Last Commit" src="https://img.shields.io/github/last-commit/gaga23/gaga23.github.io?logo=github">
 </picture>
-<picture>
+<!-- <picture>
   <img alt=Website" src="https://img.shields.io/website?label=website&url=https%3A%2F%2Fgaga23.github.io">
-</picture>
+</picture> -->
 
 ---
 
-<p align="left">
-  I aim to be a Teacher, a Developer, a Husband, a Father!
-
-- 🌈 I’m currently figuring out what exactly to do with my skills.
-- 🌎 I would love to help make our world better.
-- 🧭 2022 Goals: Find myself, Get a Job, Learn more, and Share.
-- 🧩 Hobbies: Reading, Walking, Coding; and also Drawing, Chess, Piano.
+<p align="left" alt="Who am I?">
+  Working with (computer vision) research. Figuring out my self.
 </p>
-
-#### 
-
-<!--
-- 🧙 Feel free to check out my website, [The Door Is Open][website]! 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
 
 ## Contact
 
@@ -43,8 +25,27 @@
 -->
 
 ## Languages and Tools
+<div>In use</div>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer">
   <img align="left" title="Python" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img align="left" title="Git" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+</a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  <img align="left" alt="Jupyter" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
+ </a>
+<a href="https://docs.aws.amazon.com/s3/index.html" target="_blank" rel="noreferrer">
+  <img align="left" alt="Amazon Services (S3 mostly)" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"/>
+ </a>
+</br>
+</br>
+<div>With some experience</div>
+<a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer">
+  <img align="left" title="C++" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
   <img align="left" title="HTML" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 </a>
@@ -54,15 +55,9 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img align="left" title="Javascript" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img align="left" title="Visual Studio Code" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer">
+  <img align="left" title="Vim" alt="Vim" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img align="left" title="Git" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</a>
-<a href="http://jupyter.org/" target="_blank" rel="noreferrer">
-  <img align="left" alt="Jupyter" height="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg"/>
- </a>
 </br>
 </br>
 
